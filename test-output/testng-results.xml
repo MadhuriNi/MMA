@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MMA_Capture_Test_Run" duration-ms="32522" started-at="2016-10-12T20:48:58Z" finished-at="2016-10-12T20:49:31Z">
+    <groups>
+    </groups>
+    <test name="TestSet1" duration-ms="32522" started-at="2016-10-12T20:48:58Z" finished-at="2016-10-12T20:49:31Z">
+      <class name="com.fedex.clm.mma_capture.TestExecutor.MainExecutor">
+        <test-method status="PASS" signature="prepareExecution()[pri:0, instance:com.fedex.clm.mma_capture.TestExecutor.MainExecutor@6ac3205]" name="prepareExecution" is-config="true" duration-ms="3187" started-at="2016-10-12T16:48:58Z" finished-at="2016-10-12T16:49:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareExecution -->
+        <test-method status="PASS" signature="Test_Set1()[pri:0, instance:com.fedex.clm.mma_capture.TestExecutor.MainExecutor@6ac3205]" name="Test_Set1" duration-ms="29319" started-at="2016-10-12T16:49:01Z" finished-at="2016-10-12T16:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Set1 -->
+      </class> <!-- com.fedex.clm.mma_capture.TestExecutor.MainExecutor -->
+    </test> <!-- TestSet1 -->
+  </suite> <!-- MMA_Capture_Test_Run -->
+</testng-results>
